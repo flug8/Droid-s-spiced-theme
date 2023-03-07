@@ -7,9 +7,21 @@
   --spice-button-active: #1C130D;
 }
 
+.main-repeatButton-active svg {
+  color: #D1AC89;
+}
 
-.marketplace-card-type-heading {
-  
+.main-repeatButton-button.main-repeatButton-active:after {
+  background-color: #D1AC89;
+  border-radius: 10px;
+}
+
+.main-shuffleButton-button.main-shuffleButton-active:after {
+  background-color: #D1AC89;
+}
+
+.main-shuffleButton-active svg {
+  color: #D1AC89;
 }
 
 .Root__top-bar {
