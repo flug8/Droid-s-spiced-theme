@@ -1,8 +1,14 @@
 {
-	"name": "Droid's Spiced Theme" 
-	"description" : "Just a fun little theme I made!"
-	"preview": "Droid-s-spiced-theme/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3834363838393335353931343131373134302f313038323235353539373935383836343930362f696d6167652e706e67.png"
-	"usercss": "Droid-s-spiced-theme/user.css"
-	"schemes": "Droid-s-spiced-theme/color.ini"
-	"readme": "README.md"
+  "name": "Droid's Spiced Theme",
+  "description": "Just a simple theme I made in a day.",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "authors": [
+    {
+      "name": "Droidiar",
+      "url": "https://github.com/Droidiar"
+    }
+  ]
 }
