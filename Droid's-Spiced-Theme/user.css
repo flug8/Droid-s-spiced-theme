@@ -1,6 +1,12 @@
 :root {
   --spice-card: #2C1E11;
+  --spice-tab-active: #1C130D;
+  --spice-main: #1C130D;
+  --spice-misc: #1C130D;
+  --spice-button: #1C130D;
+  --spice-button-active: #1C130D;
 }
+
 
 .marketplace-card-type-heading {
   
