@@ -44,12 +44,16 @@
   margin-left: 5%;
 }
 
+.main-navBar-navBarLink {
+  background-color: #1C130D;
+}
+
 .main-navBar-navBarLink:hover {
   background-color: #2c1e11;
 }
 
 .main-navBar-navBarLinkActive {
-  background-color: #2c1e11;
+  background-color: #000000;
 }
 
 .ellipsis-one-line {
